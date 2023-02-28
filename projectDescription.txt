@@ -1,0 +1,10 @@
+The contract is deployed at https://testnet.bscscan.com/address/0x05cb3032a4211f47709AABB9E5ea2E8E83617859#code
+
+Install node
+
+To run the code change the directory to src.
+
+To generate the mnemonics and public key run the task1_2.js using node task1_2.js
+
+To interact with the deployed contract, run the contractInteraction.js script using node contractInteraction.js
+

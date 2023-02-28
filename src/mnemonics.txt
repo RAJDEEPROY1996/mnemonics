@@ -1,0 +1,6 @@
+Two mnemonics are :
+join myself can dog melt radar neither such entry audit arrange giraffe
+acoustic stage floor actor spend clap wink measure myself exact pottery buyer
+The private key is: 0x3888245ce20be1912d104c0f3143d6ca6fcd647e9e2921f0c33ccb465359e783 and The public key is: 0xd26c85218Bfc7045CB0F0D03D202FAEC6c5cFDE9
+The private key is: 0xeee47ab4471e2a756132b70396d334df1d1c164d711403ee169dbc517180f27a and The public key is: 0x8F06f3E3c0ddDCaF8525f1AE3723C9F2f19D610b
+
